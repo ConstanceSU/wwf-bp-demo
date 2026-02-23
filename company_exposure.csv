@@ -1,0 +1,95 @@
+company_name,sector,hq_country,sbtn_stage,sbtn_target_areas,basin_id,basin_country,revenue_share_percent,exposure_type,priority_impact,risk_tolerance
+Terna S.p.A.,Utilities,Italy,Step 2 (Assess & Prioritize),Unknown,BSN-1236,Italy,3.66,logistics,water_quality,high
+Terna S.p.A.,Utilities,Italy,Step 2 (Assess & Prioritize),Unknown,BSN-2118,Italy,76.73,sourcing,water_quality,high
+Terna S.p.A.,Utilities,Italy,Step 2 (Assess & Prioritize),Unknown,BSN-2329,Italy,13.85,direct_operations,water_quality,low
+Terna S.p.A.,Utilities,Italy,Step 2 (Assess & Prioritize),Unknown,BSN-1651,Italy,5.76,sourcing,water_quality,high
+Federation of Migros Cooperatives,Retail,Switzerland,Step 3 (Targets in progress),Freshwater|Land,BSN-1096,USA,47.51,logistics,biodiversity,medium
+Federation of Migros Cooperatives,Retail,Switzerland,Step 3 (Targets in progress),Freshwater|Land,BSN-2401,Chile,9.0,logistics,land_degradation,medium
+Federation of Migros Cooperatives,Retail,Switzerland,Step 3 (Targets in progress),Freshwater|Land,BSN-2995,USA,5.58,sourcing,water_quality,low
+Federation of Migros Cooperatives,Retail,Switzerland,Step 3 (Targets in progress),Freshwater|Land,BSN-2987,Spain,31.29,sourcing,biodiversity,high
+Federation of Migros Cooperatives,Retail,Switzerland,Step 3 (Targets in progress),Freshwater|Land,BSN-1859,Chile,6.62,sourcing,water_quantity,low
+Berkeley Capital Group (B Corp™),Hotels and real estate,United Kingdom,Step 3 (Targets in progress),Land,BSN-1506,Canada,37.03,direct_operations,biodiversity,low
+Berkeley Capital Group (B Corp™),Hotels and real estate,United Kingdom,Step 3 (Targets in progress),Land,BSN-1730,Chile,62.97,logistics,land_degradation,low
+Musholm A/S,Agricultural products,Denmark,Step 3 (Targets in progress),Ocean,BSN-2802,USA,66.38,sourcing,ocean_pollution,low
+Musholm A/S,Agricultural products,Denmark,Step 3 (Targets in progress),Ocean,BSN-1810,Chile,33.62,sourcing,ocean_pollution,medium
+Seatopia,Food and beverage,United States,Step 3 (Targets in progress),Ocean,BSN-1049,Australia,29.07,sourcing,ocean_pollution,low
+Seatopia,Food and beverage,United States,Step 3 (Targets in progress),Ocean,BSN-2190,Australia,70.93,direct_operations,ocean_pollution,low
+John Lewis Partnership,Retail,United Kingdom,Step 3 (Targets in progress),Ocean,BSN-2019,Chile,7.93,sourcing,coastal_ecosystems,medium
+John Lewis Partnership,Retail,United Kingdom,Step 3 (Targets in progress),Ocean,BSN-1623,Chile,71.35,sourcing,ocean_pollution,medium
+John Lewis Partnership,Retail,United Kingdom,Step 3 (Targets in progress),Ocean,BSN-2154,Chile,20.72,direct_operations,ocean_pollution,high
+Orkla Foods Sverige,Food and beverage,Sweden,Step 3 (Targets in progress),Ocean,BSN-2017,USA,30.73,sourcing,coastal_ecosystems,low
+Orkla Foods Sverige,Food and beverage,Sweden,Step 3 (Targets in progress),Ocean,BSN-2684,Chile,69.27,logistics,ocean_pollution,low
+UPM-Kymmene,Paper and forest products,Finland,Step 3 (Targets in progress),Land,BSN-1842,USA,42.82,direct_operations,biodiversity,medium
+UPM-Kymmene,Paper and forest products,Finland,Step 3 (Targets in progress),Land,BSN-1957,Australia,24.48,sourcing,land_degradation,high
+UPM-Kymmene,Paper and forest products,Finland,Step 3 (Targets in progress),Land,BSN-2877,Italy,32.7,sourcing,biodiversity,low
+Novo Nordisk,Pharmaceuticals and healthcare,Denmark,Step 2 (Assess & Prioritize),Unknown,BSN-2409,Chile,7.07,direct_operations,water_quality,high
+Novo Nordisk,Pharmaceuticals and healthcare,Denmark,Step 2 (Assess & Prioritize),Unknown,BSN-1391,Spain,4.25,logistics,water_quality,low
+Novo Nordisk,Pharmaceuticals and healthcare,Denmark,Step 2 (Assess & Prioritize),Unknown,BSN-2590,USA,19.85,sourcing,water_quality,medium
+Novo Nordisk,Pharmaceuticals and healthcare,Denmark,Step 2 (Assess & Prioritize),Unknown,BSN-1621,Chile,8.27,logistics,water_quality,medium
+Novo Nordisk,Pharmaceuticals and healthcare,Denmark,Step 2 (Assess & Prioritize),Unknown,BSN-1236,Italy,60.56,sourcing,water_quality,medium
+Adidas,"Textiles, Apparel, and Footwear",Germany,Step 2 (Assess & Prioritize),Unknown,BSN-1650,USA,13.39,sourcing,water_quality,medium
+Adidas,"Textiles, Apparel, and Footwear",Germany,Step 2 (Assess & Prioritize),Unknown,BSN-2723,Australia,38.06,direct_operations,water_quality,high
+Adidas,"Textiles, Apparel, and Footwear",Germany,Step 2 (Assess & Prioritize),Unknown,BSN-1290,Australia,28.43,sourcing,water_quality,medium
+Adidas,"Textiles, Apparel, and Footwear",Germany,Step 2 (Assess & Prioritize),Unknown,BSN-2570,Chile,5.92,sourcing,water_quality,high
+Adidas,"Textiles, Apparel, and Footwear",Germany,Step 2 (Assess & Prioritize),Unknown,BSN-1550,Italy,14.2,direct_operations,water_quality,low
+Holcim,Building materials,Switzerland,Step 3 (Targets in progress),Freshwater,BSN-1789,Chile,93.51,logistics,water_quality,low
+Holcim,Building materials,Switzerland,Step 3 (Targets in progress),Freshwater,BSN-1093,USA,6.49,sourcing,water_quantity,low
+KLS Pureprint A/S,Paper and forest products,Denmark,Step 2 (Assess & Prioritize),Unknown,BSN-2572,Chile,1.79,sourcing,water_quality,medium
+KLS Pureprint A/S,Paper and forest products,Denmark,Step 2 (Assess & Prioritize),Unknown,BSN-2649,Chile,48.98,direct_operations,water_quality,low
+KLS Pureprint A/S,Paper and forest products,Denmark,Step 2 (Assess & Prioritize),Unknown,BSN-2688,Spain,49.23,logistics,water_quality,medium
+MC Retail,Retail,Portugal,Step 2 (Assess & Prioritize),Unknown,BSN-2819,USA,3.99,sourcing,water_quality,high
+MC Retail,Retail,Portugal,Step 2 (Assess & Prioritize),Unknown,BSN-2490,Italy,96.01,direct_operations,water_quality,medium
+Sodexo SA,Food and beverage,France,Step 2 (Assess & Prioritize),Unknown,BSN-1111,Chile,49.05,direct_operations,water_quality,low
+Sodexo SA,Food and beverage,France,Step 2 (Assess & Prioritize),Unknown,BSN-2981,UK,7.75,sourcing,water_quality,medium
+Sodexo SA,Food and beverage,France,Step 2 (Assess & Prioritize),Unknown,BSN-2988,Italy,34.79,direct_operations,water_quality,low
+Sodexo SA,Food and beverage,France,Step 2 (Assess & Prioritize),Unknown,BSN-2482,USA,8.41,direct_operations,water_quality,high
+Seche Environnement,Utilities and waste management,France,Step 2 (Assess & Prioritize),Unknown,BSN-1459,USA,23.72,sourcing,water_quality,high
+Seche Environnement,Utilities and waste management,France,Step 2 (Assess & Prioritize),Unknown,BSN-1679,Chile,76.28,sourcing,water_quality,medium
+Unibail-Rodamco-Westfield,Hotels and real estate,France,Step 3 (Targets in progress),Freshwater,BSN-1389,Canada,26.16,direct_operations,water_quality,low
+Unibail-Rodamco-Westfield,Hotels and real estate,France,Step 3 (Targets in progress),Freshwater,BSN-1625,Italy,47.59,logistics,water_quality,medium
+Unibail-Rodamco-Westfield,Hotels and real estate,France,Step 3 (Targets in progress),Freshwater,BSN-2054,Chile,26.25,direct_operations,water_quality,low
+City Developments Limited.,Hotels and real estate,Singapore,Step 2 (Assess & Prioritize),Unknown,BSN-1135,Italy,27.26,sourcing,water_quality,high
+City Developments Limited.,Hotels and real estate,Singapore,Step 2 (Assess & Prioritize),Unknown,BSN-2834,Chile,12.63,sourcing,water_quality,low
+City Developments Limited.,Hotels and real estate,Singapore,Step 2 (Assess & Prioritize),Unknown,BSN-1030,Italy,11.02,sourcing,water_quality,medium
+City Developments Limited.,Hotels and real estate,Singapore,Step 2 (Assess & Prioritize),Unknown,BSN-2372,Chile,14.41,sourcing,water_quality,high
+City Developments Limited.,Hotels and real estate,Singapore,Step 2 (Assess & Prioritize),Unknown,BSN-1791,Spain,34.68,sourcing,water_quality,high
+Metalsa,Automobiles and components,Mexico,Step 2 (Assess & Prioritize),Unknown,BSN-1135,Italy,26.54,direct_operations,water_quality,medium
+Metalsa,Automobiles and components,Mexico,Step 2 (Assess & Prioritize),Unknown,BSN-2387,Chile,35.58,logistics,water_quality,medium
+Metalsa,Automobiles and components,Mexico,Step 2 (Assess & Prioritize),Unknown,BSN-1218,Italy,6.7,sourcing,water_quality,medium
+Metalsa,Automobiles and components,Mexico,Step 2 (Assess & Prioritize),Unknown,BSN-2724,Spain,31.18,direct_operations,water_quality,low
+Ørsted,Utilities,Denmark,Step 1 (Commit),Unknown,BSN-2119,USA,4.74,sourcing,water_quality,low
+Ørsted,Utilities,Denmark,Step 1 (Commit),Unknown,BSN-2289,USA,26.43,sourcing,water_quality,medium
+Ørsted,Utilities,Denmark,Step 1 (Commit),Unknown,BSN-2077,Spain,10.69,direct_operations,water_quality,medium
+Ørsted,Utilities,Denmark,Step 1 (Commit),Unknown,BSN-2274,USA,58.14,direct_operations,water_quality,low
+Twenty Five Ecos (Shanghai) Culture Development Co. Ltd.,Personal and household products,China,Step 3 (Targets in progress),Land,BSN-1070,Chile,6.47,sourcing,biodiversity,high
+Twenty Five Ecos (Shanghai) Culture Development Co. Ltd.,Personal and household products,China,Step 3 (Targets in progress),Land,BSN-1864,Spain,19.53,direct_operations,biodiversity,low
+Twenty Five Ecos (Shanghai) Culture Development Co. Ltd.,Personal and household products,China,Step 3 (Targets in progress),Land,BSN-1280,UK,40.47,logistics,biodiversity,low
+Twenty Five Ecos (Shanghai) Culture Development Co. Ltd.,Personal and household products,China,Step 3 (Targets in progress),Land,BSN-1267,UK,33.53,direct_operations,biodiversity,medium
+H&M Group,"Textiles, Apparel, and Footwear",Sweden,Step 3 (Targets in progress),Land,BSN-2647,Canada,14.12,sourcing,biodiversity,medium
+H&M Group,"Textiles, Apparel, and Footwear",Sweden,Step 3 (Targets in progress),Land,BSN-2713,Spain,38.25,direct_operations,land_degradation,low
+H&M Group,"Textiles, Apparel, and Footwear",Sweden,Step 3 (Targets in progress),Land,BSN-2162,Italy,3.13,sourcing,biodiversity,high
+H&M Group,"Textiles, Apparel, and Footwear",Sweden,Step 3 (Targets in progress),Land,BSN-1434,Australia,27.96,direct_operations,biodiversity,low
+H&M Group,"Textiles, Apparel, and Footwear",Sweden,Step 3 (Targets in progress),Land,BSN-1617,USA,16.54,logistics,biodiversity,high
+Tata Motors Limited,Automobiles and components,India,Step 1 (Commit),Unknown,BSN-1291,Australia,15.03,logistics,water_quality,medium
+Tata Motors Limited,Automobiles and components,India,Step 1 (Commit),Unknown,BSN-1468,Chile,21.61,sourcing,water_quality,low
+Tata Motors Limited,Automobiles and components,India,Step 1 (Commit),Unknown,BSN-1106,USA,63.36,logistics,water_quality,high
+Tata Motors Passenger Vehicles Limited,Automobiles and components,India,Step 1 (Commit),Unknown,BSN-2792,USA,61.35,direct_operations,water_quality,medium
+Tata Motors Passenger Vehicles Limited,Automobiles and components,India,Step 1 (Commit),Unknown,BSN-2831,Chile,38.65,direct_operations,water_quality,high
+Public Power Corporation S.A. (PPC S.A.),Utilities,Greece,Step 1 (Commit),Unknown,BSN-2392,USA,66.97,sourcing,water_quality,medium
+Public Power Corporation S.A. (PPC S.A.),Utilities,Greece,Step 1 (Commit),Unknown,BSN-2494,Italy,7.34,sourcing,water_quality,medium
+Public Power Corporation S.A. (PPC S.A.),Utilities,Greece,Step 1 (Commit),Unknown,BSN-1913,Spain,25.69,direct_operations,water_quality,medium
+Kirin Holdings,Food and beverage,Japan,Step 2 (Assess & Prioritize),Unknown,BSN-1295,Italy,27.75,direct_operations,water_quality,low
+Kirin Holdings,Food and beverage,Japan,Step 2 (Assess & Prioritize),Unknown,BSN-2530,Chile,72.25,sourcing,water_quality,high
+Limak Çimento Sanayi ve Ticaret A.Ş.,Building Materials,Turkey,Step 3 (Targets in progress),Freshwater,BSN-2821,Chile,18.32,sourcing,water_quality,low
+Limak Çimento Sanayi ve Ticaret A.Ş.,Building Materials,Turkey,Step 3 (Targets in progress),Freshwater,BSN-1304,Canada,35.59,sourcing,water_quantity,low
+Limak Çimento Sanayi ve Ticaret A.Ş.,Building Materials,Turkey,Step 3 (Targets in progress),Freshwater,BSN-1640,Chile,22.65,sourcing,water_quantity,medium
+Limak Çimento Sanayi ve Ticaret A.Ş.,Building Materials,Turkey,Step 3 (Targets in progress),Freshwater,BSN-2851,UK,23.44,direct_operations,water_quantity,medium
+Suntown Technology Group Corporation Limited,Metals and mining,China,Step 2 (Assess & Prioritize),Unknown,BSN-1412,Chile,9.92,sourcing,water_quality,low
+Suntown Technology Group Corporation Limited,Metals and mining,China,Step 2 (Assess & Prioritize),Unknown,BSN-1794,Chile,2.33,sourcing,water_quality,high
+Suntown Technology Group Corporation Limited,Metals and mining,China,Step 2 (Assess & Prioritize),Unknown,BSN-1089,Chile,32.4,direct_operations,water_quality,medium
+Suntown Technology Group Corporation Limited,Metals and mining,China,Step 2 (Assess & Prioritize),Unknown,BSN-1970,Italy,14.94,sourcing,water_quality,low
+Suntown Technology Group Corporation Limited,Metals and mining,China,Step 2 (Assess & Prioritize),Unknown,BSN-1920,Canada,40.41,sourcing,water_quality,medium
+Talawakelle Tea Estates PLC,Agricultural Products,Sri Lanka,Step 1 (Commit),Unknown,BSN-1598,Chile,0.61,direct_operations,water_quality,high
+Talawakelle Tea Estates PLC,Agricultural Products,Sri Lanka,Step 1 (Commit),Unknown,BSN-2947,USA,11.97,sourcing,water_quality,low
+Talawakelle Tea Estates PLC,Agricultural Products,Sri Lanka,Step 1 (Commit),Unknown,BSN-1311,Chile,74.55,direct_operations,water_quality,medium
+Talawakelle Tea Estates PLC,Agricultural Products,Sri Lanka,Step 1 (Commit),Unknown,BSN-2608,USA,12.87,sourcing,water_quality,low

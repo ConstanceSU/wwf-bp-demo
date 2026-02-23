@@ -1,0 +1,17 @@
+metric_name,sbtn_target_area,claim_type,recommended_corporate_language,attribution_risk,required_baseline,materiality_relevance
+kg_nitrogen_reduced,Freshwater,outcome,Contributes to nutrient load reduction targets under SBTN Freshwater guidance.,medium,yes,high
+m3_water_recharged,Freshwater,outcome,Supports basin-level water balance improvement under SBTN Freshwater targets.,medium,yes,high
+sediment_tons_avoided,Freshwater,outcome,Reduces sediment pollution affecting freshwater ecosystems.,medium,yes,medium
+runoff_reduction_percent,Freshwater,outcome,Improves watershed hydrological stability in priority basins.,medium,yes,medium
+hectares_restored,Land,output,Supports land restoration commitments aligned with SBTN land targets.,low,no,high
+hectares_under_practice,Land,output,Expands regenerative land management practices aligned with SBTN.,low,no,high
+soil_carbon_increase_tons,Land,outcome,Enhances soil carbon stocks contributing to land resilience.,medium,yes,medium
+soil_health_score_change,Land,outcome,Improves soil function indicators aligned with land degradation neutrality.,medium,yes,medium
+biodiversity_index_change,Biodiversity,outcome,Improves biodiversity condition in priority ecosystems.,high,yes,high
+habitat_index_change,Biodiversity,outcome,Enhances habitat integrity contributing to SBTN biodiversity targets.,high,yes,high
+species_richness_change,Biodiversity,outcome,Supports species abundance and richness recovery.,high,yes,high
+tco2e_sequestered,Climate,outcome,Delivers nature-based carbon sequestration co-benefits.,medium,yes,medium
+stakeholders_engaged,Enabling,output,Strengthens stakeholder alignment for nature-positive outcomes.,low,no,low
+governance_score_improvement,Enabling,outcome,Improves basin-level governance mechanisms.,medium,yes,medium
+compliance_rate_percent,Enabling,outcome,Enhances regulatory compliance in high-risk basins.,medium,yes,medium
+conflict_incidents_reduced,Enabling,outcome,Reduces resource-use conflicts through governance strengthening.,medium,yes,low
