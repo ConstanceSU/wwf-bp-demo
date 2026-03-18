@@ -1,0 +1,46 @@
+﻿company_name;currency;revenue;ebit;ebit_margin;wacc;source_type = proxy_estimate;unit_scale
+Adidas;EUR;4813807;-117;-0.0242;12.4107;FALSE;million_local_currency
+Berkeley Capital Group (B Corp™);GBP;2464.3;479.7;0.1947;10.4316;FALSE;million_local_currency
+City Developments Limited.;SGD;3271.2;685.7;0.2096;3.8675;FALSE;million_local_currency
+Federation of Migros Cooperatives;CHF;32529;1866;0.0574;9.1;FALSE;million_local_currency
+H&M;SEK;234;17;0.0738;7.3794;FALSE;million_local_currency
+Holcim;CHF;26;5;0.1758;9.529;FALSE;million_local_currency
+John Lewis Partnership;GBP;10;360.8;0.0354;8.7222;FALSE;million_local_currency
+Kirin Holdings;JPY;2338400;211000;0.0902;5.0529;FALSE;million_local_currency
+KLS Pureprint A/S;DKK;420;34;0.0810;7.8;TRUE;million_local_currency
+Limak Çimento Sanayi ve Ticaret A.Ş.;TRY;28500;4275;0.1500;11.2;TRUE;million_local_currency
+MC Retail;EUR;1800;74;0.0410;4.1;TRUE;million_local_currency
+Metalsa;MXN;42000;3360;0.0800;10.3;TRUE;million_local_currency
+Musholm A/S;DKK;520;47;0.0900;11.1;FALSE;million_local_currency
+Novo Nordisk;DKK;309;128;0.4130;14.2125;FALSE;million_local_currency
+Orkla;NOK;70;7;0.1051;7.5078;FALSE;million_local_currency
+Ørsted;DKK;71500;-6345;-0.0887;4.5408;FALSE;million_local_currency
+Public Power Corp;EUR;8978607;580;0.0646;6.2249;FALSE;million_local_currency
+Seatopia;USD;95;-8;-0.0842;9.5;TRUE;million_local_currency
+Seche Environnement;EUR;1110.4;91.7;0.0826;6.0;FALSE;million_local_currency
+Sodexo;EUR;24;1;0.0442;10.9234;FALSE;million_local_currency
+Suntown Technology Group Corporation Limited;CNY;3800;228;0.0600;10.4;TRUE;million_local_currency
+Talawakelle Tea Estates PLC;LKR;12500;938;0.0750;7.1;TRUE;million_local_currency
+Tata Motors Limited;INR;5117620;424760;0.0830;11.9869;FALSE;million_local_currency
+Tata Motors Passenger Vehicles;INR;440;34;0.0769;12.6357;FALSE;million_local_currency
+Terna S.p.A.;EUR;3680.2;1677.4;0.4558;6.1639;FALSE;million_local_currency
+Twenty Five Ecos (Shanghai) Culture Development Co. Ltd.;CNY;260;-12;-0.0462;10.0;TRUE;million_local_currency
+Unibail Rodamco Westfield;EUR;2426.9;-203.2;-0.0837;5.4097;FALSE;million_local_currency
+UPM Kymmene;EUR;10;608;0.0581;11.4673;FALSE;million_local_currency
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;

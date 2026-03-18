@@ -1,0 +1,18 @@
+﻿metric_name;value_pathway;financial_driver;unit_value_base;unit;low;high;source_type;notes
+biodiversity_index_change;capital_market;esg_re_rating_value;0.002;WACC_reduction;0.001;0.005;expert;Illustrative reduction in discount rate from stronger biodiversity performance
+compliance_rate_percent;avoided_loss;regulatory_penalty_avoided;30000;EUR_per_pct_point;10000;70000;proxy;Proxy for avoided fines, delays, remediation, or compliance costs
+conflict_incidents_reduced;avoided_loss;community_conflict_cost_avoided;120000;EUR_per_incident;50000;250000;proxy;Illustrative avoided disruption, legal, and stakeholder management cost
+governance_score_improvement;capital_market;financing_benefit;0.001;WACC_reduction;0.0005;0.003;expert;Illustrative lower financing cost from stronger governance and stakeholder alignment
+habitat_index_change;capital_market;esg_re_rating_value;0.0015;WACC_reduction;0.0005;0.004;expert;Illustrative financing or valuation benefit linked to habitat restoration
+hectares_restored;revenue;ecosystem_service_value;250;EUR_per_ha_per_year;100;500;benchmark;Proxy for annual ecosystem service or resilience value created
+hectares_under_practice;cost_reduction;input_cost_saved;180;EUR_per_ha_per_year;80;350;benchmark;Proxy for lower fertilizer, water, and soil input costs under improved practices
+kg_nitrogen_reduced;cost_reduction;water_treatment_cost_saved;1.2;EUR_per_kg;0.5;2.0;proxy;Proxy for avoided nutrient treatment , remediation, or pollution control cost
+m3_water_recharged;cost_reduction;water_cost_saved;0.3;EUR_per_m3;0.15;0.6;benchmark;Illustrative value of improved water availability or reduced purchased water need
+runoff_reduction_percent;avoided_loss;flood_disruption_reduction;50000;EUR_per_pct_point;20000;100000;proxy;Illustrative avoided loss linked to lower runoff and flood exposure
+sediment_tons_avoided;cost_reduction;dredging_maintenance_saved;18;EUR_per_ton;10;35;proxy;Proxy for avoided dredging, sediment management, or infrastructure maintenance cost
+soil_carbon_increase_tons;revenue;carbon_value;75;EUR_per_ton;50;120;public;Illustrative carbon price or carbon value assumption
+soil_health_score_change;cost_reduction;productivity_loss_avoided;120000;EUR_per_index_point;50000;250000;proxy;Illustrative value of healthier soils reducing productivity loss
+species_richness_change;revenue;premium_market_access;80000;EUR_per_index_point;30000;150000;proxy;Proxy for premium pricing, protected market access, or biodiversity-linked demand
+stakeholders_engaged;capital_market;reputation_financing_signal;2500;EUR_per_stakeholder;1000;5000;expert;"Proxy for reputational and engagement value; low direct monetization confidence"
+tco2e_sequestered;revenue;carbon_value;75;EUR_per_ton;50;120;public;Illustrative carbon price or carbon value assumption
+water_use_efficiency_gain;cost_reduction;water_and_energy_saved;40000;EUR_per_pct_point;15000;80000;proxy;Proxy for better efficiency reducing water and energy cost
