@@ -54,6 +54,12 @@ st.markdown("""
         font-size: 0.9rem;
         color: #6b6b6b;
     }
+    div.stButton > button {
+        height: 86px;
+        font-size: 1.05rem;
+        font-weight: 600;
+        border-radius: 18px;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -741,13 +747,16 @@ show_debug = st.sidebar.checkbox("Show scoring table", value=False)
 # ---------------------------------------------------------
 # LANDING PAGE CONTENT
 # ---------------------------------------------------------
-left, right = st.columns([1.2, 1])
+left, right = st.columns([1, 1])
 
 with left:
-    st.markdown("### Main question")
-    st.write("Which NbS project should I invest in?")
+    st.markdown("<div style='height: 60px;'></div>", unsafe_allow_html=True)
 
-    if st.button("Which NbS project should I invest in?", type="primary", use_container_width=True):
+    if st.button(
+        "Which NbS project should I invest in?",
+        type="primary",
+        use_container_width=True
+    ):
         recommendation, error = build_recommendation(
             selected_company,
             df_company,
@@ -761,7 +770,7 @@ with left:
             st.session_state["recommendation"] = recommendation
 
 with right:
-    st.markdown("### What this MVP does")
+    st.markdown("## What this MVP does")
     st.write(
         "- identifies one best-fit NbS project\n"
         "- explains why it is relevant for the selected company\n"
